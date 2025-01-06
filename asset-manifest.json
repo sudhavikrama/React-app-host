@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sudhavikrama/React-app-host.git/static/css/main.e04c5cc2.css",
+    "main.js": "/sudhavikrama/React-app-host.git/static/js/main.673f73ef.js",
+    "static/js/453.faedee8a.chunk.js": "/sudhavikrama/React-app-host.git/static/js/453.faedee8a.chunk.js",
+    "static/media/logo.png": "/sudhavikrama/React-app-host.git/static/media/logo.f9772b78f87c496f79c7.png",
+    "static/media/chat-bot.png": "/sudhavikrama/React-app-host.git/static/media/chat-bot.daa8ecefca1493d35297.png",
+    "static/media/thumb-up.png": "/sudhavikrama/React-app-host.git/static/media/thumb-up.f4417ca9d128094d422f.png",
+    "static/media/thumb-down.png": "/sudhavikrama/React-app-host.git/static/media/thumb-down.03ac474a572e0c82c389.png",
+    "static/media/user.png": "/sudhavikrama/React-app-host.git/static/media/user.14208dd2710baf806e7b.png",
+    "index.html": "/sudhavikrama/React-app-host.git/index.html",
+    "main.e04c5cc2.css.map": "/sudhavikrama/React-app-host.git/static/css/main.e04c5cc2.css.map",
+    "main.673f73ef.js.map": "/sudhavikrama/React-app-host.git/static/js/main.673f73ef.js.map",
+    "453.faedee8a.chunk.js.map": "/sudhavikrama/React-app-host.git/static/js/453.faedee8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e04c5cc2.css",
+    "static/js/main.673f73ef.js"
+  ]
+}
