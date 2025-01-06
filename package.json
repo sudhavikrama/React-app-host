@@ -1,7 +1,7 @@
 {
   "name": "chatbot_design",
   "version": "0.1.0",
-  "homepage": "https://github.com/sudhavikrama/React-app-host.git",
+  "homepage": "https://sudhavikrama.github.io/React-app-host",
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.6.0",
